@@ -10,7 +10,7 @@ Wiper system is easy to use. STM32F407 Controller ARM Cortex -M4 which is effici
 
 ## SWOT Analysis
 The image below shows the SWOT analysis
-![SWOT](https://user-images.githubusercontent.com/67890511/167886040-3706b5f9-97dd-40d3-9ca6-763a161aec8f.png)
+![SWOT](https://user-images.githubusercontent.com/67890511/167890276-233a2e99-35f2-4c0b-a808-22e9a52ffe72.png)
 
 ## 4W and 1H
 Who- Useful for drivers like car, buses and trucks for clear vision of the road What- Aim is to implement automatic wiper system for vehicles When- Helpful during rain Where- Installed at the front windshield How- Ignition is turned on, the wiper starts its operation.

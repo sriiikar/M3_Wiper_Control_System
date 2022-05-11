@@ -10,4 +10,4 @@ Device Name: STM32F407VG
 ![STM Board](https://user-images.githubusercontent.com/67890511/167889540-9040da52-e4fe-4806-91f1-b1fe0cfde935.png)
 
 ## SWOT (Strength, Weakness, Opportunities, Threats):
-![SWOT](https://user-images.githubusercontent.com/67890511/167889846-6b2558f1-78d9-4a9a-89cb-28f297eaeaa9.png)
+![SWOT](https://user-images.githubusercontent.com/67890511/167890148-02658ae8-a44f-408b-89ec-905fd50459e3.png)
